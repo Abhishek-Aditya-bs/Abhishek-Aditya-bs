@@ -46,7 +46,7 @@ I'm a Computer Science Student pursuing my B.Tech from PES University, India. I 
 ## ☎️ Contact me 
 
 <a href = "mailto:abhishek.aditya10@gmail.com@gmail.com?subject=From your Github Profile" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href = "https://www.linkedin.com/in/https://www.linkedin.com/in/abhishek-aditya-bs-9a8984126/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://www.linkedin.com/in/abhishek-aditya-bs-9a8984126/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "https://www.instagram.com/abhishek_b_s_/" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://discordapp.com/users/746030668470812847/"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
