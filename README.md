@@ -1,14 +1,57 @@
-# Hello, I am Abhishek Aditya BS 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hi, I'm Abhishek 👋
 
-Welcome to my slice of the GitHub universe! I'm a Software Engineer having a strong background in Computer Science. Having completed my B.Tech from PES University, India, my journey from a student to a professional has been filled with constant learning and growth. My passion for technology has evolved over the years, and now, I find myself deeply immersed in the world of high-scale distributed systems.
+Software Engineer II at JPMorgan Chase building backend systems for FX trading applications. I work on distributed systems, event-driven architectures, and lately, tools that help developers work better with AI.
 
-I thrive in environments where I can tackle challenging problems, especially those requiring innovative solutions in distributed computing. My expertise isn't just confined to coding; it extends to designing robust systems that can scale efficiently and sustain the demands of modern-day computing needs. In my career, I've learned that adaptability and continuous learning are key, and these principles guide my professional development.
+## Quick Facts
 
-Apart from my technical pursuits, I enjoy contributing to the broader tech community, sharing insights, and learning from fellow enthusiasts. Whether it's through collaborative projects or informal tech discussions, I believe in the power of community to push the boundaries of what's possible in our field.
+- Building trading systems at JPMorgan Chase
+- Published researcher in AI/ML
+- Innovation Week Global hackathon finalist (7th place worldwide)
+- AWS Certified Solutions Architect
 
-### Let's Connect!
-- Email: [abhishek.aditya10@gmail.com](mailto:abhishek.aditya10@gmail.com?subject=From%20your%20Github%20Profile)
-- LinkedIn: [Abhishek Aditya BS](https://www.linkedin.com/in/abhishek-aditya-bs-9a8984126/)
-- Instagram: [@abhishek_b_s_](https://www.instagram.com/abhishek_b_s_/)
-- Discord: Abhishek Aditya BS
+## Published Research
+
+**[SWIFT: Lightweight Image Super-Resolution Using Transformers and Fourier Convolutions](https://doi.org/10.47852/bonviewAIA42021930)**
+*Artificial Intelligence and Applications, 2024*
+
+A hybrid transformer architecture that achieves state-of-the-art image super-resolution with 34% fewer parameters and up to 60% faster inference. Built with PyTorch.
+
+[![SWIFT](https://img.shields.io/badge/Code-SWIFT-blue?style=flat-square&logo=github)](https://github.com/Abhishek-Aditya-bs/SWIFT)
+[![Paper](https://img.shields.io/badge/Paper-DOI-green?style=flat-square)](https://doi.org/10.47852/bonviewAIA42021930)
+
+## Recent Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [OracleDB MCP Server](https://github.com/Abhishek-Aditya-bs/OracleDB-MCP-Server-Java) | AI assistant integration for Oracle databases with Kerberos auth | Java |
+| [Splunk MCP Server](https://github.com/Abhishek-Aditya-bs/Splunk-MCP-Server) | Query Splunk logs from AI assistants with encrypted credentials | Python |
+| [CodeGraph](https://github.com/Abhishek-Aditya-bs/CodeGraph) | Transform codebases into queryable knowledge graphs | Python, Neo4j |
+| [SWIFT](https://github.com/Abhishek-Aditya-bs/SWIFT) | Lightweight image super-resolution with transformers | PyTorch |
+
+## Tech I Use
+
+```
+Languages:    Java • Python • SQL • JavaScript
+Backend:      Spring Boot • Kafka • GraphQL • REST
+Data:         Oracle • PostgreSQL • Redis • Neo4j
+Cloud:        AWS (Solutions Architect certified) • Docker • Kubernetes
+ML:           PyTorch • TensorFlow • LangChain
+```
+
+## Certifications
+
+<a href="https://www.credly.com/badges/7c7e21c3-df75-4ad2-953e-16196d9c873b/public_url">
+  <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect" width="100"/>
+</a>
+<a href="https://www.credly.com/badges/c6f42ee9-aaa1-4321-b8cc-a86b187e29e2/public_url">
+  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="100"/>
+</a>
+
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhishek--aditya--bs-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-aditya-bs-9a8984126/)
+[![Email](https://img.shields.io/badge/Email-abhishek.aditya10@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:abhishek.aditya10@gmail.com)
+
+---
+
+*Currently exploring the intersection of enterprise systems and AI. Open to interesting conversations.*
