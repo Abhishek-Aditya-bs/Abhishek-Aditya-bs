@@ -23,8 +23,6 @@ A hybrid transformer architecture that achieves state-of-the-art image super-res
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [OracleDB MCP Server](https://github.com/Abhishek-Aditya-bs/OracleDB-MCP-Server-Java) | AI assistant integration for Oracle databases with Kerberos auth | Java |
-| [Splunk MCP Server](https://github.com/Abhishek-Aditya-bs/Splunk-MCP-Server) | Query Splunk logs from AI assistants with encrypted credentials | Python |
 | [CodeGraph](https://github.com/Abhishek-Aditya-bs/CodeGraph) | Transform codebases into queryable knowledge graphs | Python, Neo4j |
 | [SWIFT](https://github.com/Abhishek-Aditya-bs/SWIFT) | Lightweight image super-resolution with transformers | PyTorch |
 
