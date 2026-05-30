@@ -21,19 +21,22 @@ A hybrid transformer architecture that achieves state-of-the-art image super-res
 
 ## Recent Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [CodeGraph](https://github.com/Abhishek-Aditya-bs/CodeGraph) | Transform codebases into queryable knowledge graphs | Python, Neo4j |
-| [SWIFT](https://github.com/Abhishek-Aditya-bs/SWIFT) | Lightweight image super-resolution with transformers | PyTorch |
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| [Conclave](https://github.com/Abhishek-Aditya-bs/Conclave) | Real-time multi-agent risk detection — four specialized agents deliberate over every event and return a calibrated, explainable verdict. One architecture, two domains: payment fraud and security/SOC. | Java 25 · Spring Boot · Kafka Streams · Neo4j · pgvector · Python · LangGraph · gRPC · React | [Live](https://conclave-website.pages.dev) |
+| [Warden](https://github.com/Abhishek-Aditya-bs/Warden) | Self-hosted LLM gateway — multi-provider routing, semantic cache, and a multi-stage prompt-injection defense cascade, with a nightly cost-optimizer control loop. | Java 25 · Spring Boot · Spring AI · pgvector · Redis · ONNX · LangGraph · Next.js | [Live](https://warden-website.pages.dev) |
+| [CodeGraph](https://github.com/Abhishek-Aditya-bs/CodeGraph) | Transform codebases into queryable knowledge graphs | Python · Neo4j | [Repo](https://github.com/Abhishek-Aditya-bs/CodeGraph) |
+| [SWIFT](https://github.com/Abhishek-Aditya-bs/SWIFT) | Lightweight image super-resolution with transformers | PyTorch | [Paper](https://doi.org/10.47852/bonviewAIA42021930) |
 
 ## Tech I Use
 
 ```
-Languages:    Java • Python • SQL • JavaScript
-Backend:      Spring Boot • Kafka • GraphQL • REST
-Data:         Oracle • PostgreSQL • Redis • Neo4j
-Cloud:        AWS (Solutions Architect certified) • Docker • Kubernetes
-ML:           PyTorch • TensorFlow • LangChain
+Languages:    Java • Python • TypeScript • SQL • JavaScript
+Backend:      Spring Boot • Spring AI • Kafka • gRPC • GraphQL • REST
+AI / LLM:     LangGraph • LangChain • PyTorch • TensorFlow • ONNX • RAG (pgvector)
+Data:         Oracle • PostgreSQL • pgvector • Redis • Neo4j
+Frontend:     React • Next.js • Vite
+Cloud / Ops:  AWS (Solutions Architect certified) • Docker • Kubernetes • Grafana • OpenTelemetry
 ```
 
 ## Certifications
